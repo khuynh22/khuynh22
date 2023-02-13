@@ -6,7 +6,7 @@ I'm a full-stack software developer and Machine Learning Engineer that graduatin
 
    <p align="left">
       <a href="https://www.linkedin.com/in/khuynh22/">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Profile">
+         <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Profile" style="width: 30px; height: 30px;">
       </a>
    </p>
 
@@ -33,8 +33,5 @@ I'm a full-stack software developer and Machine Learning Engineer that graduatin
 <br />
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+ <summary><h3>👨‍💻 Huynh's Coding Journey</h3></summary>
+   As a computer science student who was initially inexperienced, I began my coding journey with a fervent interest in learning all there was to know about the world of programming, including code, unix, linux, and theory. Throughout this period, I self-taught Android development with aspirations of creating my own application, but my focus shifted towards excelling in Python, which became my primary objective. My strong interest in programming led me to secure a full-stack software engineering position upon completing my studies. While pursuing my degree, I discovered the significance of Machine Learning in the tech industry and subsequently focused my efforts on studying related courses and working on projects that utilize Machine Learning techniques and algorithms to address business problems or enhance software efficiency. I am confident that my modest yet valuable proficiency and experience in software development and applying Machine Learning can enable me to secure a rewarding position where I can make meaningful contributions to the company and the industry at large.
