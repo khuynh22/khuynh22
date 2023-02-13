@@ -8,11 +8,6 @@ I'm a full-stack software developer and Machine Learning Engineer that graduatin
       <a href="https://www.linkedin.com/in/khuynh22/">
          <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Profile" style="width: 30px; height: 30px;">
       </a>
-      <a href="https://www.khang-nguyen-huynh.com/">
-         <div style="width: 30px; height: 30px; background-color: #0077B5; color: white; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
-            P
-         </div>
-      </a>
    </p>
 
 ---
@@ -40,3 +35,4 @@ I'm a full-stack software developer and Machine Learning Engineer that graduatin
 <details>
  <summary><h3>👨‍💻 Huynh's Coding Journey</h3></summary>
    As a computer science student who was initially inexperienced, I began my coding journey with a fervent interest in learning all there was to know about the world of programming, including code, unix, linux, and theory. Throughout this period, I self-taught Android development with aspirations of creating my own application, but my focus shifted towards excelling in Python, which became my primary objective. My strong interest in programming led me to secure a full-stack software engineering position upon completing my studies. While pursuing my degree, I discovered the significance of Machine Learning in the tech industry and subsequently focused my efforts on studying related courses and working on projects that utilize Machine Learning techniques and algorithms to address business problems or enhance software efficiency. I am confident that my modest yet valuable proficiency and experience in software development and applying Machine Learning can enable me to secure a rewarding position where I can make meaningful contributions to the company and the industry at large.
+   More About Me: https://www.khang-nguyen-huynh.com/
