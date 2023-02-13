@@ -9,7 +9,9 @@ I'm a full-stack software developer and Machine Learning Engineer that graduatin
          <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Profile" style="width: 30px; height: 30px;">
       </a>
       <a href="https://www.khang-nguyen-huynh.com/">
-         <img src="path/to/portfolio/logo.png" alt="Portfolio" style="width: 30px; height: 30px;">
+         <div style="width: 30px; height: 30px; background-color: #0077B5; color: white; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+            P
+         </div>
       </a>
    </p>
 
