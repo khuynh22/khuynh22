@@ -16,6 +16,8 @@ By day, I'm a software engineer at SEL. By night-or more like whenever inspirati
 
 ## 🚀 What I'm Working On
 
+**🤖 SEL Device Expert** - Fine-tuning open LLMs (Mistral/Llama) with LoRA/QLoRA to create a specialized expert in IEC 61850, MMS/GOOSE protocols, and SEL protective relays/RTAC systems.
+
 **🌾 AgriTech Marketplace** - Building a platform that empowers small-scale farmers with direct market access and supply chain traceability, creating transparency and trust in local food systems.
 
 **🤖 AI Agent Ecosystems** - Developing intelligent agentic systems and MCP server implementations that enable seamless AI integration, autonomous decision-making, and scalable automation workflows.
@@ -65,7 +67,11 @@ By day, I'm a software engineer at SEL. By night-or more like whenever inspirati
 
 ### AI/ML & Data Engineering
 <p align="center">
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/LoRA/QLoRA-8A2BE2?style=for-the-badge&logo=ai&logoColor=white" alt="LoRA"/>
+  <img src="https://img.shields.io/badge/vLLM-00A67E?style=for-the-badge&logo=ai&logoColor=white" alt="vLLM"/>
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
