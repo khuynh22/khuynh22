@@ -67,7 +67,7 @@ By day, I'm a software engineer at SEL. By night-or more like whenever inspirati
 
 ### AI/ML & Data Engineering
 <p align="center">
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/LoRA/QLoRA-8A2BE2?style=for-the-badge&logo=ai&logoColor=white" alt="LoRA"/>
   <img src="https://img.shields.io/badge/vLLM-00A67E?style=for-the-badge&logo=ai&logoColor=white" alt="vLLM"/>
