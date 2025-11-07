@@ -16,8 +16,6 @@ By day, I'm a software engineer at SEL. By night-or more like whenever inspirati
 
 ## 🚀 What I'm Working On
 
-**🤖 SEL Device Expert** - Fine-tuning open LLMs (Mistral/Llama) with LoRA/QLoRA to create a specialized expert in IEC 61850, MMS/GOOSE protocols, and SEL protective relays/RTAC systems.
-
 **🌾 AgriTech Marketplace** - Building a platform that empowers small-scale farmers with direct market access and supply chain traceability, creating transparency and trust in local food systems.
 
 **🤖 AI Agent Ecosystems** - Developing intelligent agentic systems and MCP server implementations that enable seamless AI integration, autonomous decision-making, and scalable automation workflows.
