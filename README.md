@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-By day, I'm a software engineer at SEL. By night-or more like whenever inspiration strikes - I'm a product creator, an automation enthusiast, and an AI tinkering aficionado.
+By day, I'm a Software Engineer at SEL. By night, whenever inspiration strikes, I'm a product builder, automation enthusiast, and AI tinkerer.
 
 🌱 From writing traditional software to architecting intelligent systems, I've evolved into building AI agents that think, MCP servers that integrate seamlessly, and automation pipelines that scale. My journey has taken me from web/app development to the cutting edge of AI orchestration and AgriTech innovation.
 
