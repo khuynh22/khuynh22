@@ -77,8 +77,8 @@ By day, I'm a Software Engineer at SEL. By night, I build open-source tools for 
 </p>
 
 ## 🏆 Hackathons and Competitions
-* [Yelp AI API Hackathon](https://yelp-ai.devpost.com/) - [Yelp AI Vibe Matcher](https://github.com/gnguye5-alt/yelp-ai-vibe-matcher) - Waiting Result
-* [HuggingFace MCP Hackathon](https://huggingface.co/MCP-1st-Birthday) - [TraceMCP](https://huggingface.co/spaces/MCP-1st-Birthday/trace-mcp) - Waiting Result
+* [Yelp AI API Hackathon](https://yelp-ai.devpost.com/) - [Yelp AI Vibe Matcher](https://github.com/gnguye5-alt/yelp-ai-vibe-matcher) - No Prize but had fun 😁
+* [HuggingFace MCP Hackathon](https://huggingface.co/MCP-1st-Birthday) - [TraceMCP](https://huggingface.co/spaces/MCP-1st-Birthday/trace-mcp) - No Prize but had fun 😁
 * [Hack With Google Chicago Hackathon](https://www.hackathon.com/event/hack-with-google-google-workspace-and-appsheet-647a55de2908790018462e6e) - [Device Performance Monitoring](https://github.com/khuynh22/Hack-With-Google) - 🥇 First Place
 * [UIC Engineering Expo](https://engineeringexpo.uic.edu/) - [SecureSense](https://github.com/khuynh22/SecureSense-A-Data-Driven-Framework-for-Phishing-Attack-Prevention) - 🏅 Best Computer Science Project
 * [Apple WWDC23 Swift Student Challenge](https://developer.apple.com/swift-student-challenge/) - [Checker Game](https://github.com/khuynh22/WWDC23-CheckerGame) - No Prize but had fun 😁
