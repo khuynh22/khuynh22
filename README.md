@@ -77,6 +77,7 @@ By day, I'm a Software Engineer at SEL. By night, I build open-source tools for 
 </p>
 
 ## 🏆 Hackathons and Competitions
+* [MLH 2026 Hacks for Hackers Hackathon](https://hacks-for-hackers-27914.devpost.com/) - [OpenRoad Agent](https://github.com/khuynh22/OpenRoad-Agent) - No Prize but had fun 😁
 * [Yelp AI API Hackathon](https://yelp-ai.devpost.com/) - [Yelp AI Vibe Matcher](https://github.com/gnguye5-alt/yelp-ai-vibe-matcher) - No Prize but had fun 😁
 * [HuggingFace MCP Hackathon](https://huggingface.co/MCP-1st-Birthday) - [TraceMCP](https://huggingface.co/spaces/MCP-1st-Birthday/trace-mcp) - No Prize but had fun 😁
 * [Hack With Google Chicago Hackathon](https://www.hackathon.com/event/hack-with-google-google-workspace-and-appsheet-647a55de2908790018462e6e) - [Device Performance Monitoring](https://github.com/khuynh22/Hack-With-Google) - 🥇 First Place
