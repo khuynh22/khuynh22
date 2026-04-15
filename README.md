@@ -45,7 +45,7 @@ By day, I'm a Software Engineer at SEL. By night, I build open-source tools for 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Open_WebUI-412991?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwIDJINGMtMS4xIDAtMiAuOS0yIDJ2MThsNC00aDE0YzEuMSAwIDItLjkgMi0yVjRjMC0xLjEtLjktMi0yLTJ6bTAgMTRINmwtMiAyVjRoMTZ2MTJ6Ii8+PC9zdmc+" alt="Open WebUI"/>
+  <img src="https://img.shields.io/badge/Open_WebUI-412991?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDE3NyAxNzciPjxjaXJjbGUgY3g9Ijg4LjUiIGN5PSI4OC41IiByPSI4OC41IiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xMjIuOCA0OC40aDE2djc5aC0xNnoiLz48Y2lyY2xlIGN4PSI3MS4yIiBjeT0iODcuNSIgcj0iMzkuMSIvPjxjaXJjbGUgY3g9IjcxLjIiIGN5PSI4Ny41IiByPSIyMy40IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" alt="Open WebUI"/>
 </p>
 
 ### 🔧 Familiar & Ecosystem
