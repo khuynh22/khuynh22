@@ -14,7 +14,7 @@ Software Engineer at SEL by day. By night, I build open-source tools for AI rese
 
 **🧬 Project Darwin** — Something new, building in stealth. Going public soon. [Stay tuned →](https://github.com/khuynh22/project-darwin)
 
-**📚 PaperDeck** — Latest, trending, and famous AI/ML papers from arXiv + Hugging Face in one feed, with a reader that syncs your progress across devices. [Try it →](https://ppdeck.com) · [Code](https://github.com/khuynh22/paper-deck) · [Demo](https://youtu.be/vtyx34JvxX0)
+**📚 PaperDeck** — All AI/ML papers from arXiv + Hugging Face in one feed, with a reader that syncs your progress across devices. [Try it →](https://ppdeck.com) · [Code](https://github.com/khuynh22/paper-deck) · [Demo](https://youtu.be/vtyx34JvxX0)
 
 **🌾 AgriTech Marketplace** — Direct market access and supply-chain traceability for Vietnam's small-scale farmers.
 
