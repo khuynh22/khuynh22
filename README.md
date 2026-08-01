@@ -8,19 +8,18 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer at SEL by day. By night, I build open-source tools for AI researchers and agritech that empowers Vietnam's sustainable-agriculture marketplace.
+Software Engineer at SEL by day. By night, I do AI research and build AI harnesses. Besides, I'm working on an agritech platform that empowers Vietnam's sustainable-agriculture marketplace.
 
 ## 🚀 What I'm Working On
 
-**🧬 Project Darwin** — Something new, building in stealth. Going public soon. [Stay tuned →](https://github.com/khuynh22/project-darwin)
+**🧬 Project Darwin** — A research instrument for studying how LLMs behave over **long-horizon, multi-step trajectories** when survival is the only objective. [Work in progress →](https://github.com/khuynh22/project-darwin)
 
 **📚 PaperDeck** — All AI/ML papers from arXiv + Hugging Face in one feed, with a reader that syncs your progress across devices. [Try it →](https://ppdeck.com) · [Code](https://github.com/khuynh22/paper-deck) · [Demo](https://youtu.be/vtyx34JvxX0)
 
 **🌾 AgriTech Marketplace** — Direct market access and supply-chain traceability for Vietnam's small-scale farmers.
 
-**🤖 Agent Capabilities & Safety** — Pushing what AI agents can do, then hardening them with entropy-based security probes.
-
-**⚡ Power Systems Test Automation** — IEC 61850 test infrastructure for grid protection systems that can't fail.
+**🤖 Agent Capabilities & Safety** — Multi-agent system that safely orchestrates specialized skills using a robust harness and strict guardrails.
+**⚡ Power Systems Test Automation** — IEC 61850 test infrastructure for grid protection systems where failure is not an option.
 
 ## 🛠️ Tech Stack & Tools
 
