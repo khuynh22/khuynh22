@@ -65,7 +65,7 @@ Software Engineer at SEL by day. By night, I do AI research and build AI harness
   <img src="https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logoColor=white" alt="dbt"/>
   <img src="https://img.shields.io/badge/-0066CC?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
   <img src="https://img.shields.io/badge/-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
