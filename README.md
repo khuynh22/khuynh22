@@ -54,7 +54,7 @@ Software Engineer at SEL by day. By night, I do AI research and build AI harness
 <p align="center">
   <img src="https://img.shields.io/badge/-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
   <img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28" alt="C#"/>
   <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
