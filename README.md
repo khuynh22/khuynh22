@@ -12,14 +12,15 @@ Software Engineer at SEL by day. By night, I do AI research and build AI harness
 
 ## 🚀 What I'm Working On
 
-**🧬 Project Darwin** — A research instrument for studying how LLMs behave over **long-horizon, multi-step trajectories** when survival is the only objective. [Work in progress →](https://github.com/khuynh22/project-darwin)
+**🧬 Project Darwin**: A research instrument for benchmarking LLMs on how they behave under economic pressure, not what they know, but whether they cooperate, deceive, or defect when survival is on the line. [Work in progress →](https://github.com/khuynh22/project-darwin)
 
-**📚 PaperDeck** — All AI/ML papers from arXiv + Hugging Face in one feed, with a reader that syncs your progress across devices. [Try it →](https://ppdeck.com) · [Code](https://github.com/khuynh22/paper-deck) · [Demo](https://youtu.be/vtyx34JvxX0)
+**📚 PaperDeck**: All AI/ML papers from arXiv + Hugging Face in one feed, with a reader that syncs your progress across devices. [Try it →](https://ppdeck.com) · [Code](https://github.com/khuynh22/paper-deck) · [Demo](https://youtu.be/vtyx34JvxX0)
 
-**🌾 AgriTech Marketplace** — Direct market access and supply-chain traceability for Vietnam's small-scale farmers.
+**🌾 AgriTech Marketplace**: Direct market access and supply-chain traceability for Vietnam's small-scale farmers.
 
-**🤖 Agent Capabilities & Safety** — Multi-agent system that safely orchestrates specialized skills using a robust harness and strict guardrails.
-**⚡ Power Systems Test Automation** — IEC 61850 test infrastructure for grid protection systems where failure is not an option.
+**🤖 Agent Capabilities & Safety**: Learning reinforcement learning by building the eval side of it. Reward modeling, rollout scoring, and regression harnesses that catch silent policy drift.
+
+**⚡ Power Systems Automated Testing Framework**: IEC 61850 software infrastructure for grid protection systems where failure is not an option.
 
 ## 🛠️ Tech Stack & Tools
 
