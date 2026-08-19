@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub!;Software+Developer;Problem+Solver;AI+Agent+Builder;Continuous+Learner" alt="Typing SVG" />
-</h1>
-
 ## 👨‍💻 About Me
 
 Software Engineer at SEL by day. By night, I do AI research and build AI harnesses. Besides, I'm working on an agritech platform that empowers Vietnam's sustainable-agriculture marketplace.
@@ -94,10 +90,6 @@ Software Engineer at SEL by day. By night, I do AI research and build AI harness
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
