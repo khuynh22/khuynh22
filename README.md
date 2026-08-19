@@ -59,9 +59,7 @@ Software Engineer at SEL by day. By night, I do AI research and build AI harness
   <img src="https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="AWS EC2"/>
-  <img src="https://img.shields.io/badge/-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="AWS RDS"/>
-  <img src="https://img.shields.io/badge/-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="28" alt="AWS"/>
   <img src="https://img.shields.io/badge/-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery"/>
   <img src="https://img.shields.io/badge/-E42528?style=for-the-badge&logo=apache-couchdb&logoColor=white" alt="CouchDB"/>
   <img src="https://img.shields.io/badge/-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
