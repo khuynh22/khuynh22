@@ -34,7 +34,7 @@ Software Engineer at SEL by day. By night, I do AI research and build AI harness
   <img src="https://img.shields.io/badge/-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/-0B0D0E?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
-  <img src="https://img.shields.io/badge/-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=icloud&logoColor=white" alt="AWS S3"/>
   <img src="https://img.shields.io/badge/-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/-30A2FF?style=for-the-badge&logo=vllm&logoColor=white" alt="vLLM"/>
