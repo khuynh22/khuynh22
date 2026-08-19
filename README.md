@@ -28,12 +28,11 @@ Software Engineer at SEL by day. By night, I do AI research and build AI harness
 <p align="center">
   <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-009688?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAzSDdhMiAyIDAgMCAwLTIgMnY1YTIgMiAwIDAgMS0yIDIgMiAyIDAgMCAxIDIgMnY1YTIgMiAwIDAgMCAyIDJoMSIvPjxwYXRoIGQ9Ik0xNiAzaDFhMiAyIDAgMCAxIDIgMnY1YTIgMiAwIDAgMCAyIDIgMiAyIDAgMCAwLTIgMnY1YTIgMiAwIDAgMS0yIDJoLTEiLz48L3N2Zz4=" alt="RESTful API"/>
   <img src="https://img.shields.io/badge/-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   <img src="https://img.shields.io/badge/-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/-0B0D0E?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
   <img src="https://img.shields.io/badge/-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
   <img src="https://img.shields.io/badge/-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
