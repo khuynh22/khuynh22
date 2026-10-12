@@ -6,7 +6,7 @@
 
 Software Engineer at SEL, working on IEC 61850 and protective relay software. I build agentic AI workflows at work and in my free time.
 
-I'm also building FarmLink, an AgriTech platform for Vietnam's agricultural marketplace, and learning RLHF right now.
+I'm also building FarmLink, an AgriTech platform for Vietnam's agricultural marketplace, and learning RLHF right now. 
 
 ## 🚀 What I'm Working On
 
@@ -14,7 +14,7 @@ I'm also building FarmLink, an AgriTech platform for Vietnam's agricultural mark
 
 **📚 PaperDeck**: All AI/ML papers from arXiv + Hugging Face in one feed, with a reader that syncs your progress across devices. [Try it →](https://ppdeck.com) · [Code](https://github.com/khuynh22/paper-deck) · [Demo](https://youtu.be/vtyx34JvxX0)
 
-**🌾 AgriTech Marketplace**: Direct market access and supply-chain traceability for Vietnam's small-scale farmers.
+**🌾 FarmLink**: Direct market access and supply-chain traceability for Vietnam's small-scale farmers. https://farmlinkvn.com/
 
 **🤖 Agent Capabilities & Safety**: Learning reinforcement learning by building the eval side of it. Reward modeling, rollout scoring, and regression harnesses that catch silent policy drift.
 
