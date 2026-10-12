@@ -4,7 +4,9 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer at SEL by day. By night, I do AI research and build AI harnesses. Besides, I'm working on an agritech platform that empowers Vietnam's sustainable-agriculture marketplace.
+Software Engineer at SEL, working on IEC 61850 and protective relay software. I build agentic AI workflows at work and in my free time.
+
+I'm also building FarmLink, an AgriTech platform for Vietnam's agricultural marketplace, and learning RLHF right now.
 
 ## 🚀 What I'm Working On
 
